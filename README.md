@@ -44,12 +44,6 @@ The workflow is designed to run seamlessly in Google Colab or any Spark‑enable
 │  └─ earthquake_big_data_colab.ipynb      # Main end‑to‑end notebook
 ├─ data/
 │  └─ global_earthquakes_10yrs.csv         # Dataset (path reference; not committed)
-├─ visualizations/
-│  ├─ architecture_dashboard.html
-│  ├─ exploration_dashboard.html
-│  ├─ transformation_dashboard.html
-│  └─ ml_performance_dashboard.html
-├─ requirements.txt                        # Python dependencies
 ├─ README.md                               # Project documentation
 └─ LICENSE
 ```
