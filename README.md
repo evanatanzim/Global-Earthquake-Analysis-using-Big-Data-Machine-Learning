@@ -160,6 +160,12 @@ Contributions and improvements are welcome:
 
 ***
 
+## Author
+
+**Evana Tanzim Rupa** 
+**Md Abu Ammar**  
+
+
 ## License
 
 This project is released under the MIT License. See `LICENSE` for details.
